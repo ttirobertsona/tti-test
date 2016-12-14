@@ -1,0 +1,76 @@
+FILE_TYPE=LIBRARY_PARTS;
+{ Using PSTWRITER 16.6.0 d001Jun-10-2016 at 10:19:58}
+primitive 'LED_LED_LTW006DCG_LTW-006DCG-E2';
+  pin
+    'ANODE':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    'CATHODE':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='LED';
+    JEDEC_TYPE='LED_LTW006DCG';
+    VALUE='LTW-006DCG-E2';
+  end_body;
+end_primitive;
+primitive 'HEADER_7_CON_AYF3307_AYF330735';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='HEADER_7';
+    JEDEC_TYPE='CON_AYF3307';
+    VALUE='AYF330735 PAN';
+  end_body;
+end_primitive;
+primitive 'RES_R0402_4R99';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='RES';
+    JEDEC_TYPE='R0402';
+    VALUE='4R99';
+  end_body;
+end_primitive;
+primitive 'TESTLOOP_TP_IO_TPAD_020';
+  pin
+    'PIN1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TESTLOOP';
+    JEDEC_TYPE='TP';
+    CLASS='IO';
+    VALUE='TPAD_020';
+  end_body;
+end_primitive;
+END.

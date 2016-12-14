@@ -1,0 +1,15 @@
+\t (06:57:29) allegro 16.6-2015 S062 (v16-6-112FA) Windows 32
+\t (06:57:29)     Journal start - Fri Jun 10 15:52:35 2016
+\t (06:57:29)         Host=ALLEGRO User=RobertsonA Pid=31172 CPUs=8
+\t (06:57:29) CmdLine= C:\Cadence\SPB_16.6\tools\pcb\bin\allegro.exe
+\t (06:57:29) 
+\d (06:57:29) Design opened: C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd
+\i (06:57:29) signalintegrity 
+\i (06:57:34) open 
+\i (06:57:55) fillin "C:\TouchstnPDM\TTI Designs\ASY5754\PCB0382\Allegro\PCB0382.brd"
+\i (06:57:55) cd "C:\TouchstnPDM\TTI Designs\ASY5754\PCB0382\Allegro"
+\t (06:57:55) Opening existing design...
+\t (06:57:55) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\t (06:57:55) Grids are drawn 0.0508, 0.0508 apart for enhanced viewability.
+\i (06:57:55) trapsize 575
+\t (06:57:55)     Journal end - Fri Jun 10 15:53:01 2016

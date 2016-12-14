@@ -1,0 +1,37 @@
+G04 ================== begin FILE IDENTIFICATION RECORD ==================*
+G04 Layout Name:  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd*
+G04 Film Name:    top_mask*
+G04 File Format:  Gerber RS274X*
+G04 File Origin:  Cadence Allegro 16.6-2015-S062*
+G04 Origin Date:  Fri Jun 10 11:04:38 2016*
+G04 *
+G04 Layer:  PIN/SOLDERMASK_TOP*
+G04 Layer:  PACKAGE GEOMETRY/SOLDERMASK_TOP*
+G04 Layer:  BOARD GEOMETRY/SOLDERMASK_TOP*
+G04 *
+G04 Offset:    (0.0000 0.0000)*
+G04 Mirror:    No*
+G04 Mode:      Positive*
+G04 Rotation:  0*
+G04 FullContactRelief:  No*
+G04 UndefLineWidth:     0.0000*
+G04 ================== end FILE IDENTIFICATION RECORD ====================*
+%FSLAX25Y25*MOIN*%
+%IR0*IPPOS*OFA0.00000B0.00000*MIA0B0*SFA1.00000B1.00000*%
+%ADD10C,.035*%
+%ADD11R,.07X.037*%
+%LPD*%
+G75*
+G54D10*
+X6700Y12000D03*
+X14600Y8200D03*
+G54D11*
+X27513Y12598D03*
+X41687D03*
+X66273D03*
+X80446D03*
+X105033D03*
+X119206D03*
+X143793D03*
+X157966D03*
+M02*

@@ -1,0 +1,722 @@
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   1  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  +12V         pins MOVED FROM this net (to net name listed on right)
+                                 D1.1                           
+                                                                      N17188037
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  +3.3V        pins MOVED FROM this net (to net name listed on right)
+                                 D2.1                           
+                                                                      N17188037
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  A-VS         pins MOVED FROM this net (to net name listed on right)
+                                 R3.2                           
+                                                                     N171879701
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDC_SCL      pins MOVED FROM this net (to net name listed on right)
+                                 J1.6                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  DDC_SDA      pins MOVED FROM this net (to net name listed on right)
+                                 J1.7                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins MOVED FROM this net (to net name listed on right)
+                                 D3.1                           
+                                                                      N17188037
+                                 D4.1                           
+                                                                      N17188037
+                - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+               pins ADDED TO this existing net (pins not previously on any net)
+                                 J1.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N300027      pins MOVED FROM this net (to net name listed on right)
+                                 R4.1                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N300037      pins MOVED FROM this net (to net name listed on right)
+                                 R2.1                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N300057      pins MOVED FROM this net (to net name listed on right)
+                                 R1.1                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17125558    pins MOVED FROM this net (to net name listed on right)
+                                 D4.2                           
+                                                                     N171879781
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| NET CHANGES                                                                  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+  N17125614    pins MOVED FROM this net (to net name listed on right)
+                                 D2.2                           
+                                                                     N171879621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17125717    pins MOVED FROM this net (to net name listed on right)
+                                 D3.2                           
+                                                                     N171879701
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17125741    pins MOVED FROM this net (to net name listed on right)
+                                 D1.2                           
+                                                                     N171879541
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17154515    pins MOVED FROM this net (to net name listed on right)
+                                 R3.1                           
+                                                                            GND
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N17188037    pins ADDED TO this new net
+                                 J1.1                           
+                                 J1.2                           
+                                 J1.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX1-         pins MOVED FROM this net (to net name listed on right)
+                                 R4.2                           
+                                                                     N171879781
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX2+         pins MOVED FROM this net (to net name listed on right)
+                                 R2.2                           
+                                                                     N171879621
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  RX2-         pins MOVED FROM this net (to net name listed on right)
+                                 R1.2                           
+                                                                     N171879541
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| NET PROPERTIES deleted from design                                           |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|     net  name   |   property   |                    value                    |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ GND               MIN_LINE_WIDTH 0.2032 MM
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ HEADER_7_CON_AYF3307_AYF330735
+ LED_LED_LTW006DCG_LTW-006DCG-E2
+ RES_R0402_4R99
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C1                  CAP_C0402_0.1UF                      
+ C2                  CAP_C0402_0.1UF                      
+ C3                  CAP_C0402_0.1UF                      
+ C4                  CAP_C0402_0.1UF                      
+ C5                  CAP_C0402_0.1UF                      
+ C6                  CAP_C0402_0.1UF                      
+ C7                  CAP_C0402_0.1UF                      
+ C8                  CAP_C1210_10UF                       
+ C12                 CAP_C1210_10UF                       
+ C13                 CAPACITOR_POL_CAP_ALUM_ELYT_63D                
+ C14                 CAP_C0402_0.1UF                      
+ C15                 CAP_C0603_33PF                       
+ C16                 CAP_C0603_33PF                       
+ C17                 CAP_C0603_0.22UF                     
+ C18                 CAP_C0603_0.22UF                     
+ C19                 CAP_C1210_47UF                       
+ C20                 CAP_C0603_1UF                        
+ C21                 CAP_C0402_0.1UF                      
+ C22                 CAP_C0402_0.1UF                      
+ C23                 CAP_C0603_1UF                        
+ C24                 CAP_C0805_22UF                       
+ C25                 CAP_C0603_470PF                      
+ C26                 CAP_C0603_3300PF                     
+ C27                 CAP_C0603_0.22UF                     
+ C28                 CAP_C1210_47UF                       
+ C29                 CAP_C0603_1UF                        
+ C30                 CAP_C0402_0.1UF                      
+ C31                 CAP_C0603_1000PF                     
+ C32                 CAP_C0603_1UF                        
+ C33                 CAP_C0603_1UF                        
+ C34                 CAP_C0603_1UF                        
+ C35                 CAP_C0603_1UF                        
+ C36                 CAP_C0402_0.1UF                      
+ C37                 CAP_C0402_0.1UF                      
+ C38                 CAP_C0402_0.1UF                      
+ C39                 CAP_C0402_0.1UF                      
+ C40                 CAP_C0402_0.1UF                      
+ C41                 CAP_C0402_0.1UF                      
+ C42                 CAP_C0402_0.1UF                      
+ C43                 CAP_C0402_0.1UF                      
+ C44                 CAP_C0402_0.1UF                      
+ C45                 CAP_C0402_0.1UF                      
+ C46                 CAP_C0402_0.1UF                      
+ C47                 CAP_C0402_0.1UF                      
+ C48                 CAP_C0402_0.1UF                      
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   6  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C49                 CAP_C0402_0.1UF                      
+ C50                 CAP_C0402_0.1UF                      
+ C51                 CAP_C0402_0.1UF                      
+ C52                 CAP_C0402_0.1UF                      
+ C53                 CAP_C0402_0.1UF                      
+ C54                 CAP_C0402_0.1UF                      
+ C55                 CAP_C0402_0.1UF                      
+ C57                 CAP_C0805_22UF                       
+ C58                 CAP_C0805_22UF                       
+ C59                 CAP_C0402_0.1UF                      
+ C60                 CAP_C1210_22UF                       
+ C61                 CAP_C0402_0.1UF                      
+ C62                 CAP_C0402_0.1UF                      
+ C63                 CAP_C0402_0.1UF                      
+ C64                 CAP_C1210_22UF                       
+ C65                 CAP_C0402_0.1UF                      
+ C66                 CAP_C0402_0.1UF                      
+ C67                 CAP_C0402_0.1UF                      
+ C68                 CAP_C0402_0.1UF                      
+ C69                 CAP_C0402_0.1UF                      
+ C70                 CAP_C1210_22UF                       
+ C71                 CAP_C0402_0.1UF                      
+ C72                 CAP_C0402_0.1UF                      
+ C74                 CAP_C0402_0.1UF                      
+ C75                 CAP_C0402_0.1UF                      
+ C76                 CAP_C0402_0.1UF                      
+ C77                 CAP_C0402_0.1UF                      
+ C78                 CAP_C0402_0.1UF                      
+ C80                 CAP_C0402_0.1UF                      
+ C81                 CAP_C0402_0.1UF                      
+ C82                 CAP_C0402_0.1UF                      
+ C83                 CAP_C0402_0.1UF                      
+ C84                 CAP_C0402_0.1UF                      
+ C85                 CAP_C0402_10PF                       
+ C86                 CAP_C0402_10PF                       
+ C87                 CAP_C0603_4700PF                     
+ C88                 CAP_C0402_0.1UF                      
+ C89                 CAP_C0402_0.1UF                      
+ C90                 CAP_C0402_0.1UF                      
+ C91                 CAP_C1210_22UF                       
+ C92                 CAP_C0402_0.1UF                      
+ C93                 CAP_C0402_0.1UF                      
+ C94                 CAP_C0402_0.1UF                      
+ C95                 CAP_C0402_0.1UF                      
+ C96                 CAP_C0402_0.1UF                      
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C97                 CAP_C1210_22UF                       
+ C98                 CAP_C0402_0.1UF                      
+ C99                 CAP_C1210_22UF                       
+ C100                CAP_C0402_0.1UF                      
+ C101                CAP_C0402_0.1UF                      
+ C102                CAP_C0402_0.1UF                      
+ C103                CAP_C0402_0.1UF                      
+ C105                CAP_C0402_0.1UF                      
+ C106                CAP_C0402_0.1UF                      
+ C107                CAP_C0402_0.1UF                      
+ C108                CAP_C0402_0.1UF                      
+ C109                CAP_C0402_0.1UF                      
+ C110                CAP_C0402_0.1UF                      
+ C112                CAP_C0402_0.1UF                      
+ C113                CAP_C0402_0.1UF                      
+ C114                CAP_C0402_0.1UF                      
+ C115                CAP_C0402_0.1UF                      
+ C116                CAP_C0402_10PF                       
+ C117                CAP_C0402_10PF                       
+ C118                CAP_C0603_4700PF                     
+ C119                CAP_C0402_0.1UF                      
+ C120                CAP_C0402_0.1UF                      
+ C121                CAP_C0402_0.1UF                      
+ C122                CAP_C0603_3.3UF                      
+ C123                CAP_C0603_3.3UF                      
+ C124                CAP_C1210_2.2 UF HMK325B7225KN-                
+ C125                CAP_C1210_2.2 UF HMK325B7225KN-                
+ C126                CAP_C1210_2.2 UF HMK325B7225KN-                
+ C127                CAP_C1210_2.2 UF HMK325B7225KN-                
+ C128                CAP_C1210_2.2 UF HMK325B7225KN-                
+ C129                CAP_C0402_0.1UF                      
+ C130                CAP_C1210_100UF                      
+ C131                CAP_C0402_0.1UF                      
+ C132                CAP_C0402_0.1UF                      
+ C133                CAP_C0603_4.7UF                      
+ C134                CAP_C0603_4700PF_1                   
+ C136                CAP_C0402_0.1UF                      
+ C137                CAP_C0402_0.1UF                      
+ C138                CAP_C1210_100UF                      
+ C139                CAP_C0402_4700PF                     
+ C140                CAP_C0402_4700PF                     
+ C141                CAP_C0402_4700PF                     
+ C142                CAP_C0402_4700PF                     
+ C143                CAP_C0402_0.1UF                      
+ C144                CAP_C0402_0.1UF                      
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C145                CAP_C0603_1.0 UF                     
+ C146                CAP_C0603_1.0 UF                     
+ C147                CAP_C0603_1.0 UF                     
+ C148                CAP_C0603_1.0 UF                     
+ C149                CAP_C0402_0.1UF                      
+ C150                CAP_C0402_4700PF                     
+ C151                CAP_C0402_4700PF                     
+ C152                CAP_C0402_0.1UF                      
+ C153                CAP_C0402_4700PF                     
+ C154                CAP_C0402_4700PF                     
+ C155                CAP_C0402_0.1UF                      
+ C186                CAP_C1210_10UF                       
+ C187                CAP_C0603_1UF                        
+ C188                CAP_C0603_10NF                       
+ C189                CAP_C0402_0.1UF                      
+ C190                CAP_C1210_47UF                       
+ C191                CAP_C1210_47UF                       
+ C192                CAP_C1210_47UF                       
+ C193                CAP_C0603_10PF                       
+ C194                CAP_C1210_100UF                      
+ C195                CAP_C1210_100UF                      
+ C196                CAP_C1210_100UF                      
+ C197                CAP_C1210_100UF                      
+ C198                CAP_C1210_100UF                      
+ D5                  DIODE_SCHOTTKY_DIODE_SHKY_SMB_S                
+ D6                  DIODE_SCHOTTKY_DIODE_SHKY_SMA_B                
+ D7                  DIODE_SCHOTTKY_POWERDI123_DFLS1                
+ D8                  LED_BI_CMN_AND_LED_LTSTS3_BI-CO                
+ J2                  HEADER_6_HDR6_HDR 6P 100C                
+ J3                  HEADER_2_HDR2_2MM_DNP                
+ J4                  HEADER_4_CON53261_0471_53261-04                
+ J5                  HEADER_2_HDR2_2MM_DNP                
+ J6                  HEADER_4_CON53261_0471_53261-04                
+ J7                  HEADER_32_CON_FIXB30SSL_HF15_FI                
+ J8                  HEADER_6_CON_S6B_S6B-PH-SM4 JST                
+ J9                  HEADER_6_CON_S6B_S6B-PH-SM4 JST                
+ J10                 HEADER_32_CON_FIXB30SSL_HF15_FI                
+ J13                 HEADER_3_CON_39303037_39-30-303                
+ L1                  INDUCTOR_R0402_MPZ1005S121C                
+ L2                  INDUCTOR_R0402_0 R                   
+ L3                  INDUCTOR_LXAL4030_6.8 UH 3.9A                
+ L4                  INDUCTOR_IND_SRR1240_15UH 3.5A                
+ L5                  INDUCTOR_LXAL4030_15 UH 2.8A                
+ L6                  INDUCTOR_L0603_FB 1K/100M                
+ L7                  INDUCTOR_L0603_FB 1K/100M                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   9  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L8                  INDUCTOR_L0603_FB 1K/100M                
+ L9                  INDUCTOR_L0603_FB 1K/100M                
+ L10                 INDUCTOR_L0603_FB 1K/100M                
+ L11                 INDUCTOR_L0603_FB 1K/100M                
+ L12                 INDUCTOR_L0603_FB 1K/100M                
+ L13                 INDUCTOR_L0603_FB 1K/100M                
+ L14                 INDUCTOR_L2525_10 UH 3A                
+ L15                 INDUCTOR_IND_SRR1280_10UH 6A                
+ MH1                 MH300_125_MH300_125_MH300_125                
+ MH2                 MH300_125_MH300_125_MH300_125                
+ Q1                  MOSFET_P_SOT23_IRLML6401                
+ Q2                  NPN_BEC_SOT23_MMBTA05                
+ Q3                  SI4164DY_SOIC8_SI4164DY                
+ Q5                  MOSFET_P_SOT23_IRLML6401                
+ Q6                  NPN_BEC_SOT23_MMBTA05                
+ Q7                  PZTA42_SOT223_PZTA42                 
+ Q8                  PZTA42_SOT223_PZTA42                 
+ Q9                  MOSFET_P_SOT23_IRLML6401                
+ Q10                 NPN_BEC_SOT23_MMBTA05                
+ Q11                 PZTA42_SOT223_PZTA42                 
+ Q12                 PZTA42_SOT223_PZTA42                 
+ Q13                 PZTA42_SOT223_PZTA42                 
+ Q14                 PZTA42_SOT223_PZTA42                 
+ Q15                 MOSFET_P_SOT23_IRLML6401                
+ Q16                 NPN_BEC_SOT23_MMBTA05                
+ Q17                 PZTA42_SOT223_PZTA42                 
+ Q18                 PZTA42_SOT223_PZTA42                 
+ R5                  RESISTOR_R0402_10 R                  
+ R6                  RESISTOR_R0402_0 R                   
+ R7                  RESISTOR_R0402_10 R                  
+ R8                  RESISTOR_R0402_10 R                  
+ R9                  R_R0402_4K7                          
+ R10                 R_R0402_4K7                          
+ R11                 RESISTOR_R0402_10 R                  
+ R12                 RESISTOR_R0402_10 R                  
+ R13                 R_R0603_20 R                         
+ R14                 RESISTOR_R0603_47 R                  
+ R15                 RESISTOR_R0603_47 R                  
+ R16                 RESISTOR_R0603_47 R                  
+ R17                 RESISTOR_R0603_75 R                  
+ R18                 RESISTOR_R0603_75 R                  
+ R19                 RESISTOR_R0603_75 R                  
+ R20                 RESISTOR_R0603_84R5                  
+ R21                 RESISTOR_R0603_84R5                  
+ R22                 RESISTOR_R0603_22 R                  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  10  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R23                 RESISTOR_R0603_84R5                  
+ R24                 RESISTOR_R0603_22 R                  
+ R25                 R_R0603_53K6                         
+ R26                 R_R0603_18K7                         
+ R27                 R_R0402_10K2                         
+ R28                 R_R0603_24K3                         
+ R29                 R_R0603_7K5                          
+ R30                 R_R0603_30K                          
+ R31                 RESISTOR_R0603_35K7                  
+ R33                 R_R0603_16K2_1                       
+ R34                 R_R0603_11K5                         
+ R35                 R_R0603_43K                          
+ R36                 R_R0603_68K1                         
+ R37                 R_R0603_1K                           
+ R38                 RES_R0402_DNP                        
+ R39                 R_R0603_1K                           
+ R45                 RESISTOR_R0402_10K                   
+ R46                 RESISTOR_R0402_10K                   
+ R47                 R_R0402_4K64                         
+ R48                 R_R0603_1K                           
+ R49                 RESISTOR_R0402_10K                   
+ R50                 RESISTOR_R0402_10K                   
+ R51                 RESISTOR_R0402_10K                   
+ R52                 RESISTOR_R0402_10K                   
+ R53                 RESISTOR_R0402_10K                   
+ R54                 RESISTOR_R0402_10K                   
+ R55                 RESISTOR_R0402_10K                   
+ R56                 RESISTOR_R0402_10K                   
+ R57                 RESISTOR_R0402_10K                   
+ R58                 RESISTOR_R0402_10K                   
+ R59                 RESISTOR_R0402_10K                   
+ R60                 RESISTOR_R0402_10K                   
+ R61                 RESISTOR_R0402_158R                  
+ R62                 RESISTOR_R0402_158R                  
+ R63                 RESISTOR_R0402_158R                  
+ R64                 RESISTOR_R0402_10K                   
+ R65                 RESISTOR_R0402_158R                  
+ R66                 RESISTOR_R0402_158R                  
+ R67                 RESISTOR_R0402_158R                  
+ R68                 RESISTOR_R0402_10K                   
+ R69                 RESISTOR_R0402_158R                  
+ R70                 RESISTOR_R0402_158R                  
+ R71                 RESISTOR_R0402_158R                  
+ R72                 RESISTOR_R0402_158R                  
+ R73                 RESISTOR_R0402_158R                  
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  11  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R74                 RESISTOR_R0402_10K                   
+ R75                 RESISTOR_R0402_158R                  
+ R76                 RESISTOR_R0402_158R                  
+ R77                 RESISTOR_R0402_158R                  
+ R78                 RESISTOR_R0402_158R                  
+ R79                 RESISTOR_R0402_10K                   
+ R80                 RESISTOR_R0402_158R                  
+ R81                 RESISTOR_R0402_158R                  
+ R82                 RESISTOR_R0402_158R                  
+ R83                 RESISTOR_R0402_10K                   
+ R84                 RESISTOR_R0402_158R                  
+ R85                 RESISTOR_R0402_158R                  
+ R87                 RESISTOR_R0603_249 R                 
+ R89                 RESISTOR_R0603_0 R                   
+ R91                 RESISTOR_R0402_47R5                  
+ R92                 R_R0603_4K7                          
+ R93                 RESISTOR_R0402_10K                   
+ R94                 RESISTOR_R0402_10K                   
+ R95                 RESISTOR_R0402_10K                   
+ R96                 RESISTOR_R0402_158R                  
+ R97                 RESISTOR_R0402_10K                   
+ R98                 RESISTOR_R0402_10K                   
+ R99                 RESISTOR_R0402_10K                   
+ R100                RESISTOR_R0402_10K                   
+ R101                RESISTOR_R0402_158R                  
+ R102                RESISTOR_R0402_158R                  
+ R103                RESISTOR_R0402_10K                   
+ R104                RESISTOR_R0402_158R                  
+ R105                RESISTOR_R0402_158R                  
+ R106                RESISTOR_R0402_158R                  
+ R107                RESISTOR_R0402_158R                  
+ R108                RESISTOR_R0402_158R                  
+ R109                RESISTOR_R0402_158R                  
+ R110                RESISTOR_R0402_158R                  
+ R111                RESISTOR_R0402_158R                  
+ R112                RESISTOR_R0402_158R                  
+ R113                RESISTOR_R0402_158R                  
+ R114                RESISTOR_R0402_158R                  
+ R115                RESISTOR_R0402_158R                  
+ R116                RESISTOR_R0402_158R                  
+ R117                RESISTOR_R0402_158R                  
+ R118                RESISTOR_R0402_158R                  
+ R119                RESISTOR_R0402_158R                  
+ R120                RESISTOR_R0402_158R                  
+ R121                RESISTOR_R0402_10K                   
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  12  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R122                RESISTOR_R0402_10K                   
+ R123                RESISTOR_R0402_10K                   
+ R124                RESISTOR_R0402_10K                   
+ R125                RESISTOR_R0402_10K                   
+ R126                R_R0402_1K                           
+ R127                RESISTOR_R0603_249 R                 
+ R129                RESISTOR_R0603_0 R                   
+ R131                RESISTOR_R0402_47R5                  
+ R132                R_R0603_4K7                          
+ R133                RESISTOR_R0402_10K                   
+ R134                RESISTOR_R0402_10K                   
+ R135                R_R0603_332K                         
+ R136                RESISTOR_R0402_1K                    
+ R137                R_R0603_100K                         
+ R138                R_R0603_DNP                          
+ R139                R_R0603_100K                         
+ R140                R_R1206_0.47 R                       
+ R141                R_R0603_750K                         
+ R142                RESISTOR_R0603_0R                    
+ R143                RESISTOR_R0603_0R                    
+ R144                RESISTOR_R0603_0R                    
+ R145                R_R0603_16K2                         
+ R146                RESISTOR_R0603_0R                    
+ R147                RESISTOR_R0603_0R                    
+ R148                RESISTOR_R0603_0R                    
+ R149                R_R0603_15K                          
+ R150                RESISTOR_R0603_0R                    
+ R151                RESISTOR_R0603_0R                    
+ R152                R_R0603_34K8                         
+ R153                RESISTOR_R0603_DNP                   
+ R155                RESISTOR_R0603_0R                    
+ R158                RESISTOR_R0402_10K                   
+ R159                RESISTOR_R0402_1K                    
+ R160                R_R0603_100 R                        
+ R161                R_R0603_100 R                        
+ R162                RESISTOR_R0402_10K                   
+ R163                R_R0603_845 R                        
+ R164                R_R0603_845 R                        
+ R165                R_R0603_10 R                         
+ R166                R_R0603_10 R                         
+ R167                RESISTOR_R0402_1K                    
+ R168                R_R0603_10 R                         
+ R169                R_R0603_845 R                        
+ R170                R_R0603_845 R                        
+ R171                R_R0603_10 R                         
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  13  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ R172                R_R0603_100 R                        
+ R173                R_R0603_100 R                        
+ R174                R_R0603_100K                         
+ R175                R_R0603_13K7                         
+ R176                R_R0603_100 R                        
+ R177                R_R0603_100 R                        
+ R178                RESISTOR_R0402_10K                   
+ R179                R_R0603_845 R                        
+ R180                R_R0603_845 R                        
+ R181                R_R0603_10 R                         
+ R182                R_R0603_10 R                         
+ R183                RESISTOR_R0402_1K                    
+ R184                R_R0603_10 R                         
+ R185                R_R0603_845 R                        
+ R186                R_R0603_845 R                        
+ R187                R_R0603_10 R                         
+ R188                R_R0603_100 R                        
+ R189                R_R0603_100 R                        
+ R190                RESISTOR_R0402_10K                   
+ R191                RESISTOR_R0402_10K                   
+ R192                RESISTOR_R0402_10K                   
+ R193                RESISTOR_R0402_10K                   
+ R194                RES_R0402_DNP                        
+ R195                RESISTOR_R0402_10K                   
+ R196                RESISTOR_R0402_10K                   
+ R197                RESISTOR_R0402_1K                    
+ R198                R_R0603_41K2                         
+ R200                R_R0402_1M                           
+ R201                RES_R0402_0 R                        
+ R202                R_R0402_243K                         
+ R203                R_R0603_30 R                         
+ R204                R_R0603_30 R                         
+ SEL1                SEL0402_SEL0402_DNP                  
+ SEL2                SEL0402_SEL0402_10K A                
+ SEL3                SEL0402_SEL0402_10K A                
+ SEL4                SEL0402_SEL0402_10K A                
+ SEL5                SEL0402_SEL0402_10K A                
+ SEL6                SEL0402_SEL0402_10K A                
+ SEL7                SEL0402_SEL0402_10K B                
+ SEL8                SEL0402_SEL0402_10K B                
+ SEL9                SEL0402_SEL0402_10K B                
+ SEL10               SEL0402_SEL0402_10K B                
+ SEL11               SEL0402_SEL0402_10K B                
+ SEL12               SEL0402_SEL0402_10K A                
+ SEL13               SEL0402_SEL0402_10K B                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  14  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS DELETED from design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        |    device type      |   x   |   y                        |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ SEL14               SEL0402_SEL0402_10K B                
+ SEL15               SEL0402_SEL0402_10K B                
+ SEL16               SEL0402_SEL0402_10K B                
+ SEL17               SEL0402_SEL0402_0 R B                
+ SEL18               SEL0402_SEL0402_0 R B                
+ SEL19               SEL0603_SEL0603_0 R                  
+ SEL20               SEL0603_SEL0603_0 R                  
+ TP1                 TP_SMT_TP_TP                         
+ TP2                 TP_SMT_TP_TP                         
+ TP3                 TP_SMT_TP_TP                         
+ TP6                 TP_SMT_TP_TP                         
+ TP7                 TP_SMT_TP_TP                         
+ TP8                 TP_SMT_TP_TP                         
+ TP9                 TP_SMT_TP_TP                         
+ TP11                TP_SMT_TP_TP                         
+ TP12                TP_SMT_TP_TP                         
+ TP13                TP_SMT_TP_TP                         
+ TP14                TP_SMT_TP_TP                         
+ TP15                TP_SMT_TP_TP                         
+ U2                  24LC024_SOIC8_24LC02                 
+ U3                  LT3507_QFN39_LT3507A                 
+ U4                  TMDS442PNPR_QFP129_TMDS442PNPR                
+ U5                  SST25VF020_SOIC8_SST25VF020                
+ U6                  STDP6038_PQFP128_STDP6038                
+ U7                  STDP6038_PQFP128_STDP6038                
+ U8                  LT3956_QFN38UHE_LT3956                
+ U9                  LTC6085_SSOP16_LTC6085                
+ U10                 LTC6085_SSOP16_LTC6085                
+ U11                 SST25VF020_SOIC8_SST25VF020                
+ U14                 LT8612_UDE28_LT8612                  
+ Y1                  CRYS_ABMM_CRS_ABMM_27 MHZ                
+ Y2                  CRYS_ABMM_CRS_ABMM_27 MHZ                
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  15  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1                  LED_LED_LTW006DCG_LTW-006DCG-E2                 DIODE_SCHOTTKY_DIODE_SHKY_SMB_S
+ D2                  LED_LED_LTW006DCG_LTW-006DCG-E2                 DIODE_SCHOTTKY_DIODE_SHKY_SMB_S
+ D3                  LED_LED_LTW006DCG_LTW-006DCG-E2                 DIODE_SCHOTTKY_DIODE_SHKY_SMA_B
+ D4                  LED_LED_LTW006DCG_LTW-006DCG-E2                 DIODE_SCHOTTKY_DIODE_SHKY_SMA_B
+ J1                  HEADER_7_CON_AYF3307_AYF330735                 DVI-I_CON_DVII_74320-1004 MLX
+ R1                  RES_R0402_4R99                        RESISTOR_R0402_10 R
+ R2                  RES_R0402_4R99                        RESISTOR_R0402_10 R
+ R3                  RES_R0402_4R99                        R_R0603_20 R
+ R4                  RES_R0402_4R99                        RESISTOR_R0402_10 R
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page  16  |
+|------------------------------------------------------------------------------|
+|  C:/TouchstnPDM/TTI Designs/ASY5772/PCB0389/Allegro/PCB0389.brd              |
+|                                                    Fri Jun 10 09:02:09 2016  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ D1.2                           PRIM_FILE      .\pstchip.dat
+ D2.2                           PRIM_FILE      .\pstchip.dat
+ D3.2                           PRIM_FILE      .\pstchip.dat
+ D4.2                           PRIM_FILE      .\pstchip.dat
+ J1.7                           PRIM_FILE      .\pstchip.dat
+ R1.2                           PRIM_FILE      .\pstchip.dat
+ R2.2                           PRIM_FILE      .\pstchip.dat
+ R3.2                           PRIM_FILE      .\pstchip.dat
+ R4.2                           PRIM_FILE      .\pstchip.dat
+|------------------------------------------------------------------------------|
+|       Nets changed          :      22                                        |
+|       Net property deleted  :       1                                        |
+|       Comp definitions added:       3                                        |
+|       Components deleted    :     437                                        |
+|       Components changed    :       9                                        |
+|       Slot property added   :       9                                        |
+|                                                                              |
+|   Total ECO changes reported:     481                                        |
+|------------------------------------------------------------------------------|

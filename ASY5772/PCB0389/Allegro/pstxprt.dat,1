@@ -1,0 +1,100 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jun-10-2016 at 08:54:59 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='PCB0389';
+ POST_TIME='Aug  3 2015 18:16:55';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ D1 'LED_LED_LTW006DCG_LTW-006DCG-E2':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17187949@DK_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17187949@dk_discrete.\led.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17187949@dk_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED_LTW006DCG_LTW-006DCG-E2':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17187957@DK_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17187957@dk_discrete.\led.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17187957@dk_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED_LTW006DCG_LTW-006DCG-E2':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17187965@DK_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17187965@dk_discrete.\led.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17187965@dk_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED_LTW006DCG_LTW-006DCG-E2':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17187973@DK_DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17187973@dk_discrete.\led.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17187973@dk_discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'HEADER_7_CON_AYF3307_AYF330735':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17188246@DK_CONNECTOR.HEADER_7.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17188246@dk_connector.\header_7.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17188246@dk_connector.\header_7.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'RES_R0402_4R99':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17188382@DK_DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17188382@dk_discrete.\res.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17188382@dk_discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'RES_R0402_4R99':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17188438@DK_DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17188438@dk_discrete.\res.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17188438@dk_discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'RES_R0402_4R99':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17188461@DK_DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17188461@dk_discrete.\res.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17188461@dk_discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'RES_R0402_4R99':;
+
+SECTION_NUMBER 1
+ '@PCB0389.SCHEMATIC(SCH_1):INS17188485@DK_DISCRETE.RES.NORMAL(CHIPS)':
+ C_PATH='@pcb0389.schematic(sch_1):ins17188485@dk_discrete.\res.normal\(chips)',
+ P_PATH='@pcb0389.schematic(sch_1):page1_ins17188485@dk_discrete.\res.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
